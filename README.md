@@ -1,2 +1,2 @@
-# himaika-unpad
+# Himaika-Unpad
 Himaika Website
